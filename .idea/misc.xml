@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/drawable-ldpi/ic_delete_black_24dp.xml" value="0.1725" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_checkbox_select.xml" value="0.25052083333333336" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_login.xml" value="0.4466666666666667" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_main.xml" value="0.12364130434782608" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_scan.xml" value="0.14666666666666667" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_scan_view.xml" value="0.22" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_set_max_row.xml" value="0.22" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_test123.xml" value="0.536" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_view_scanned.xml" value="0.12" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/activity_view_scanned_select.xml" value="0.1" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/content_scan.xml" value="0.1" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/list_item_view.xml" value="0.25" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/scanned_list_row.xml" value="0.264" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/scanview_list_row.xml" value="0.3333333333333333" />
+        <entry key="..\:/projects/triphil/triphilapp/app/src/main/res/layout/signup.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.536" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

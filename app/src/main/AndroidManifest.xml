@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tlicorporation.triphil"
+    android:versionCode="197000022"
+    android:versionName="1.97.00.0022">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/barcode_example_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:ignore="MissingClass">
+        <activity
+            android:name=".activities.TestActivity123"
+            android:exported="true">
+
+        </activity>
+
+        <activity android:name=".activities.CheckboxSelectActivity" />
+        <activity android:name=".activities.TestScanner" />
+        <activity
+            android:name=".activities.SetMaxRowActivity"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert" />
+        <activity android:name=".activities.ScanAllSelectActivity" />
+        <activity android:name=".activities.setmaxtest" />
+        <activity android:name=".activities.ScanViewActivity">
+
+        </activity>
+        <activity android:name=".activities.ViewScannedSelectActivity" />
+        <activity android:name=".activities.ViewScannedActivity" />
+        <activity android:name=".activities.ReferenceNumberActivity" />
+        <activity
+            android:name=".activities.ScanSelectActivity"
+            android:label="" />
+        <activity android:name=".activities.ScanActivity" />
+        <activity
+            android:name=".activities.MenuActivity"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name=".activities.LoginActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".activities.AutomaticBarcodeActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.RegisterActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.signup"
+            android:label="@string/app_name">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.ViewUserActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

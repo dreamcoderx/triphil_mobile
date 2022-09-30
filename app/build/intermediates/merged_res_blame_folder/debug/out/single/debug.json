@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_scan_select.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_scan_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable_user.png.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_content_scan.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\content_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\navigation_nav_graph3.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\navigation\\nav_graph3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_lsttemplate.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\lsttemplate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_scanview_list_row.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\scanview_list_row.xml"
+    },
+    {
+        "merged": "com.tlicorporation.triphil.app-merged_res-29:/layout_scanview_list_row.xml.flat",
+        "source": "com.tlicorporation.triphil.app-main-31:/layout/scanview_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_view_scanned_select.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_view_scanned_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_signup.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\signup.xml"
+    },
+    {
+        "merged": "com.tlicorporation.triphil.app-merged_res-29:/layout_activity_scan_view.xml.flat",
+        "source": "com.tlicorporation.triphil.app-main-31:/layout/activity_scan_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_user_list.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable-xhdpi_barcode_example_icon.png.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\drawable-xhdpi\\barcode_example_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_scanned_list_row.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\scanned_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\xml_activity_scan_view_scene.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\xml\\activity_scan_view_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable_mybtn.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\drawable\\mybtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_set_max_row.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_set_max_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_scan_all_select.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_scan_all_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "com.tlicorporation.triphil.app-merged_res-29:/drawable-ldpi_ic_delete_black_24dp.png.flat",
+        "source": "com.tlicorporation.triphil.app-pngs-24:/drawable-ldpi/ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\menu_menu_check_box.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\menu\\menu_check_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_selection_barcode.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_selection_barcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_recyclerview_row.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\recyclerview_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_test_scanner.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_test_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "com.tlicorporation.triphil.app-merged_res-29:/drawable-ldpi-v21_ic_delete_black_24dp.xml.flat",
+        "source": "com.tlicorporation.triphil.app-pngs-24:/drawable-ldpi-v21/ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_recyclerview_scanned.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\recyclerview_scanned.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_view_user.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_view_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_list_item_view.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\list_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable-ldpi_barcode_example_icon.png.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\drawable-ldpi\\barcode_example_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_recyclerview_scanned_all.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\recyclerview_scanned_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_scan_view.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_scan_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_settings_activity.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable_myedittextbg.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\drawable\\myedittextbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_checkbox_select.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_checkbox_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_test123.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_test123.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_scan.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_scanner_select_dialog.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\scanner_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable-mdpi_barcode_example_icon.png.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\drawable-mdpi\\barcode_example_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-pngs-24:\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable-hdpi_barcode_example_icon.png.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\drawable-hdpi\\barcode_example_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-pngs-24:\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_reference_number.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_reference_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\xml_activity_scan_scene.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\xml\\activity_scan_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-pngs-24:\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_view_scanned.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_view_scanned.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_barcode.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_barcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_nav_header_menu.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\nav_header_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_content_scrolling.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-merged_res-29:\\layout_activity_check_box.xml.flat",
+        "source": "C:\\Users\\Chiela\\.gradle\\daemon\\7.3.3\\com.tlicorporation.triphil.app-main-31:\\layout\\activity_check_box.xml"
+    }
+]

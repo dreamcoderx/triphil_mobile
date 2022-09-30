@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/triphilapp.iml" filepath="$PROJECT_DIR$/.idea/modules/triphilapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataCollectionLib/triphilapp.DataCollectionLib.iml" filepath="$PROJECT_DIR$/.idea/modules/DataCollectionLib/triphilapp.DataCollectionLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/triphilapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/triphilapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/triphilapp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/triphilapp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/triphilapp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/triphilapp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/triphilapp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/triphilapp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jtds-1.3.1/triphilapp.jtds-1.3.1.iml" filepath="$PROJECT_DIR$/.idea/modules/jtds-1.3.1/triphilapp.jtds-1.3.1.iml" />
+    </modules>
+  </component>
+</project>

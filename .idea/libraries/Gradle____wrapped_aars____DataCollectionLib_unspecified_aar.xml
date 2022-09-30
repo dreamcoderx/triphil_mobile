@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __wrapped_aars__::DataCollectionLib:unspecified@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataCollectionLib/build/.transforms/ee37d9828e9a5d7120d5bc07326e9f91/transformed/jetified-DataCollection/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/DataCollectionLib/build/.transforms/ee37d9828e9a5d7120d5bc07326e9f91/transformed/jetified-DataCollection/res" />
+      <root url="file://$PROJECT_DIR$/DataCollectionLib/build/.transforms/ee37d9828e9a5d7120d5bc07326e9f91/transformed/jetified-DataCollection/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

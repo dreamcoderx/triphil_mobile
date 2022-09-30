@@ -1,0 +1,230 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tlicorporation.triphil"
+4    android:versionCode="22092911"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:8:5-81
+11-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:8:22-78
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:9:5-67
+12-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:9:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:10:5-79
+13-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:10:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:11:5-76
+14-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:11:22-73
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:12:5-66
+15-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:12:22-63
+16    <uses-permission android:name="com.honeywell.decode.permission.DECODE" />
+16-->[:DataCollectionLib] D:\projects\triphil\triphilapp\DataCollectionLib\build\.transforms\ee37d9828e9a5d7120d5bc07326e9f91\transformed\jetified-DataCollection\AndroidManifest.xml:11:5-78
+16-->[:DataCollectionLib] D:\projects\triphil\triphilapp\DataCollectionLib\build\.transforms\ee37d9828e9a5d7120d5bc07326e9f91\transformed\jetified-DataCollection\AndroidManifest.xml:11:22-75
+17
+18    <application
+18-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:14:5-90:19
+19        android:name="androidx.multidex.MultiDexApplication"
+20        android:allowBackup="true"
+20-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:15:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.5.0] C:\Users\Chiela\.gradle\caches\transforms-3\4cb2d3ae910a25e4d3b75b6b0d8d1b11\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+22-->[:DataCollectionLib] D:\projects\triphil\triphilapp\DataCollectionLib\build\.transforms\ee37d9828e9a5d7120d5bc07326e9f91\transformed\jetified-DataCollection\AndroidManifest.xml:15:9-35
+23        android:icon="@drawable/barcode_example_icon"
+23-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:16:9-54
+24        android:label="@string/app_name"
+24-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:17:9-41
+25        android:theme="@style/AppTheme" >
+25-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:18:9-40
+26        <activity
+26-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:20:9-24:20
+27            android:name="com.tlicorporation.triphil.activities.TestActivity123"
+27-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:21:13-55
+28            android:exported="true" >
+28-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:22:13-36
+29        </activity>
+30        <activity android:name="com.tlicorporation.triphil.activities.CheckboxSelectActivity" />
+30-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:26:9-71
+30-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:26:19-68
+31        <activity android:name="com.tlicorporation.triphil.activities.TestScanner" />
+31-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:27:9-60
+31-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:27:19-57
+32        <activity
+32-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:28:9-30:67
+33            android:name="com.tlicorporation.triphil.activities.SetMaxRowActivity"
+33-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:29:13-57
+34            android:theme="@style/Theme.AppCompat.Dialog.Alert" />
+34-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:30:13-64
+35        <activity android:name="com.tlicorporation.triphil.activities.ScanAllSelectActivity" />
+35-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:31:9-70
+35-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:31:19-67
+36        <activity android:name="com.tlicorporation.triphil.activities.setmaxtest" />
+36-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:32:9-59
+36-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:32:19-56
+37        <activity android:name="com.tlicorporation.triphil.activities.ScanViewActivity" >
+37-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:33:9-35:20
+37-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:33:19-62
+38        </activity>
+39        <activity android:name="com.tlicorporation.triphil.activities.ViewScannedSelectActivity" />
+39-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:36:9-74
+39-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:36:19-71
+40        <activity android:name="com.tlicorporation.triphil.activities.ViewScannedActivity" />
+40-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:37:9-68
+40-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:37:19-65
+41        <activity android:name="com.tlicorporation.triphil.activities.ReferenceNumberActivity" />
+41-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:38:9-72
+41-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:38:19-69
+42        <activity
+42-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:39:9-41:32
+43            android:name="com.tlicorporation.triphil.activities.ScanSelectActivity"
+43-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:40:13-58
+44            android:label="" />
+44-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:41:13-29
+45        <activity android:name="com.tlicorporation.triphil.activities.ScanActivity" />
+45-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:42:9-61
+45-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:42:19-58
+46        <activity
+46-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:43:9-46:59
+47            android:name="com.tlicorporation.triphil.activities.MenuActivity"
+47-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:44:13-52
+48            android:label="@string/title_activity_menu"
+48-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:45:13-56
+49            android:theme="@style/AppTheme.NoActionBar" />
+49-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:46:13-56
+50        <activity
+50-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:47:9-49:63
+51            android:name="com.tlicorporation.triphil.activities.SettingsActivity"
+51-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:48:13-56
+52            android:label="@string/title_activity_settings" />
+52-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:49:13-60
+53        <activity
+53-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:50:9-58:20
+54            android:name="com.tlicorporation.triphil.activities.LoginActivity"
+54-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:51:13-53
+55            android:label="@string/app_name" >
+55-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:52:13-45
+56            <intent-filter>
+56-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:53:13-56:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:54:17-69
+57-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:54:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:55:17-77
+59-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:55:27-74
+60            </intent-filter>
+61        </activity>
+62        <activity
+62-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:59:9-61:48
+63            android:name="com.tlicorporation.triphil.activities.MainActivity"
+63-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:60:13-52
+64            android:label="@string/app_name" />
+64-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:61:13-45
+65        <activity
+65-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:62:9-68:20
+66            android:name="com.tlicorporation.triphil.activities.AutomaticBarcodeActivity"
+66-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:63:13-64
+67            android:label="@string/app_name" >
+67-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:64:13-45
+68            <intent-filter>
+68-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:65:13-67:29
+69                <category android:name="android.intent.category.DEFAULT" />
+69-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:66:17-76
+69-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:66:27-73
+70            </intent-filter>
+71        </activity>
+72        <activity
+72-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:69:9-75:20
+73            android:name="com.tlicorporation.triphil.activities.RegisterActivity"
+73-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:70:13-56
+74            android:label="@string/app_name" >
+74-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:71:13-45
+75            <intent-filter>
+75-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:65:13-67:29
+76                <category android:name="android.intent.category.DEFAULT" />
+76-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:66:17-76
+76-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:66:27-73
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:76:9-82:20
+80            android:name="com.tlicorporation.triphil.activities.signup"
+80-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:77:13-46
+81            android:label="@string/app_name" >
+81-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:78:13-45
+82            <intent-filter>
+82-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:65:13-67:29
+83                <category android:name="android.intent.category.DEFAULT" />
+83-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:66:17-76
+83-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:66:27-73
+84            </intent-filter>
+85        </activity>
+86        <activity
+86-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:83:9-89:20
+87            android:name="com.tlicorporation.triphil.activities.ViewUserActivity"
+87-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:84:13-56
+88            android:label="@string/app_name" >
+88-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:85:13-45
+89            <intent-filter>
+89-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:65:13-67:29
+90                <category android:name="android.intent.category.DEFAULT" />
+90-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:66:17-76
+90-->D:\projects\triphil\triphilapp\app\src\main\AndroidManifest.xml:66:27-73
+91            </intent-filter>
+92        </activity>
+93
+94        <service
+94-->[com.google.firebase:firebase-firestore:23.0.2] C:\Users\Chiela\.gradle\caches\transforms-3\c72628b2851452334d4336d3a034e7ea\transformed\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:17:9-23:19
+95            android:name="com.google.firebase.components.ComponentDiscoveryService"
+95-->[com.google.firebase:firebase-firestore:23.0.2] C:\Users\Chiela\.gradle\caches\transforms-3\c72628b2851452334d4336d3a034e7ea\transformed\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:18:13-84
+96            android:directBootAware="true"
+96-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\824fdc820c97c76dd585d4a74d70ae71\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+97            android:exported="false" >
+97-->[com.google.firebase:firebase-firestore:23.0.2] C:\Users\Chiela\.gradle\caches\transforms-3\c72628b2851452334d4336d3a034e7ea\transformed\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:19:13-37
+98            <meta-data
+98-->[com.google.firebase:firebase-firestore:23.0.2] C:\Users\Chiela\.gradle\caches\transforms-3\c72628b2851452334d4336d3a034e7ea\transformed\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:20:13-22:85
+99                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+99-->[com.google.firebase:firebase-firestore:23.0.2] C:\Users\Chiela\.gradle\caches\transforms-3\c72628b2851452334d4336d3a034e7ea\transformed\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:21:17-111
+100                android:value="com.google.firebase.components.ComponentRegistrar" />
+100-->[com.google.firebase:firebase-firestore:23.0.2] C:\Users\Chiela\.gradle\caches\transforms-3\c72628b2851452334d4336d3a034e7ea\transformed\jetified-firebase-firestore-23.0.2\AndroidManifest.xml:22:17-82
+101        </service>
+102
+103        <activity
+103-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\b0ccaa7e74f85fc81886b1df5f1ed157\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+104            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+104-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\b0ccaa7e74f85fc81886b1df5f1ed157\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+105            android:exported="false"
+105-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\b0ccaa7e74f85fc81886b1df5f1ed157\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+106            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+106-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\b0ccaa7e74f85fc81886b1df5f1ed157\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+107
+108        <provider
+108-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\824fdc820c97c76dd585d4a74d70ae71\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+109            android:name="com.google.firebase.provider.FirebaseInitProvider"
+109-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\824fdc820c97c76dd585d4a74d70ae71\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+110            android:authorities="com.tlicorporation.triphil.firebaseinitprovider"
+110-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\824fdc820c97c76dd585d4a74d70ae71\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+111            android:directBootAware="true"
+111-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\824fdc820c97c76dd585d4a74d70ae71\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+112            android:exported="false"
+112-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\824fdc820c97c76dd585d4a74d70ae71\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+113            android:initOrder="100" />
+113-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\824fdc820c97c76dd585d4a74d70ae71\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+114
+115        <meta-data
+115-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\82e0345d748e579cf9b90bc0805fd082\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+116            android:name="com.google.android.gms.version"
+116-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\82e0345d748e579cf9b90bc0805fd082\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+117            android:value="@integer/google_play_services_version" />
+117-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Chiela\.gradle\caches\transforms-3\82e0345d748e579cf9b90bc0805fd082\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+118    </application>
+119
+120</manifest>
